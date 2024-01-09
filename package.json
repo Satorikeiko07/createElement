@@ -1,0 +1,16 @@
+{
+  "name": "create-element",
+  "version": "1.1.0",
+  "description": "document.createElement() implementation",
+  "main": "src/index.js",
+  "author": "Satorikeiko07",
+  "license": "UNLICENSED",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Satorikeiko07/createElement.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Satorikeiko07/createElement/issues"
+  },
+  "homepage": "https://github.com/Satorikeiko07/createElement#readme"
+}
